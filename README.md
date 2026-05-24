@@ -1,0 +1,2 @@
+# spendly
+An expense tracker
